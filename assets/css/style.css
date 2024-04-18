@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Top head Section Start */
+
+.top-head{
+    background: #024a02;
+    padding: 5px 125px;
+    color: #fff;
+    /*width: 100%;
+    height: 25px; */
+    display: flex;
+    justify-content: space-between; 
+}
+.top-head p{
+    display: inline;
+}
+.top-head a{
+    color: #7fdc7f;
+}
+/* Top head Section End */
+
+/* Header Section Start */
+header{
+    width: 100%;
+    height: 90px;
+    line-height: 90px;
+    background: #076507;
+    padding: 0px 125px;
+}
+header h1, header h4{
+    display: inline;
+    color: white;
+}
+/* Header Section End */
